@@ -41,14 +41,14 @@ const Pricing = () => {
 
                         <div className="pricing-bg">
                             <img
-                                src="/images/bg-outlines.svg"
+                                src="/Xora/images/bg-outlines.svg"
                                 width={960}
                                 height={380}
                                 alt="outline"
                                 className="relative z-2"
                             />
                             <img
-                                src="/images/bg-outlines-fill.png"
+                                src="/Xora/images/bg-outlines-fill.png"
                                 width={960}
                                 height={380}
                                 alt="outline"
