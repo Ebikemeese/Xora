@@ -138,7 +138,7 @@ const Pricing = () => {
                                             className="relative flex items-center gap-5"
                                         >
                                             <img
-                                                src={"/images/check.png"}
+                                                src={"/Xora/images/check.png"}
                                                 alt="check"
                                                 className="size-10 object-contain"
                                             />
