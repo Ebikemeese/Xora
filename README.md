@@ -1,16 +1,34 @@
-# React + Vite
+# 🎬 Xora — Video Editing SaaS Landing Page  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Xora** is a modern, responsive, and lightning-fast **Video Editing SaaS Landing Page** built with **React**, **Vite**, and **TailwindCSS**.  
+It’s designed to showcase SaaS products beautifully — with clean UI sections, smooth animations, and conversion-focused layouts.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo  
+👉 https://ebikemeese.github.io/Xora(https://ebikemeese.github.io/Xora)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features  
 
-## Expanding the ESLint configuration
+✅ **Sleek and Modern Interface** — Built with a minimal yet stylish design that looks great on all devices.  
+✅ **Fast & Optimized** — Powered by Vite for ultra-fast build and performance.  
+✅ **Responsive Layout** — Mobile-first design using TailwindCSS.  
+✅ **Pricing Section** — Elegant pricing cards to display your product plans.  
+✅ **FAQ Section** — Frequently asked questions for better user clarity.  
+✅ **Testimonials** — Real or demo user feedback to build trust and credibility.  
+✅ **Clean Codebase** — Modular and easy-to-understand structure for developers.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧱 Tech Stack  
+
+| Technology | Purpose |
+|-------------|----------|
+| **React** | Frontend UI library |
+| **Vite** | Lightning-fast development & build tool |
+| **TailwindCSS** | Utility-first CSS framework |
+| **GitHub Pages** | Deployment platform |
+
+---
